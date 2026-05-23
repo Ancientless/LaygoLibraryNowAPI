@@ -1,0 +1,6 @@
+@LaygoLibraryNowAPI_HostAddress = http://localhost:5080
+
+GET {{LaygoLibraryNowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
